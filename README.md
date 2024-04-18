@@ -7,10 +7,10 @@ A simple Android app to display standings from basketball leagues across the glo
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/bjaxqq/SER210.git
+git clone https://github.com/bajackson1/SlamStats.git
 ```
 
-Open the slamstats folder in Android Studio, build it, and run it on an emulator or a physical device.
+Open the folder in Android Studio, build it, and run it on an emulator or a physical device.
 
 ### Prerequisites
 
